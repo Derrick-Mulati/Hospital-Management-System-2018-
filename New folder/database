@@ -1,0 +1,27 @@
+
+Data base - it is a data storaga,data is stored in categories and related.
+
+Scenario 1:Hospital
+
+
+Primary Key-is a unique identifier
+
+if a table has a primary key , then its in 1st Normal Form(1NF)
+
+WHEN DONE EXPORT YOR DATABASE TO EXCEL
+
+
+Click on the database , then on the top menu click on export ,scroll  down and export as sql.....
+
+
+foreign key represent a primary key which is in another table and help relate one table to another
+
+
+SQL - Sequential Query Language
+
+
+Types of  queury
+-Insert
+-Select
+-update
+-Delete 
